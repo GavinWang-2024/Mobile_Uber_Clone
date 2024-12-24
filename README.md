@@ -45,7 +45,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/GavinWang-2024/uber_clone_mobile_app.git
+git clone https://github.com/GavinWang-2024/Mobile_Uber_Clone.git
 ```
 
 **Installation**
